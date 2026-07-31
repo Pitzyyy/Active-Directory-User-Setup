@@ -4,7 +4,6 @@
 
 A basic Active Directory lab showing the new hire onboarding process. It covers setting up a new user account, issuing a temporary password, forcing a password update on first login, and placing the user in the correct groups.
 
-![Onboarding diagram](images/onboarding.svg)
 
 <h2>Environment Used</h2>
 
@@ -13,6 +12,7 @@ A basic Active Directory lab showing the new hire onboarding process. It covers 
 
 <h2>Lab Walk-through: </h2>
 
+![Create User](https://raw.githubusercontent.com/Pitzyyy/images/main/create_user.png)
 
 
 
