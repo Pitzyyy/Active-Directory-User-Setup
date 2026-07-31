@@ -9,6 +9,8 @@ A basic Active Directory lab showing the new hire onboarding process. It covers 
 - Windows Server 2022<br>
 - VMware Workstation
 
-<h2>Lab Walkthrough</h2>
+<h2>Lab Walk-through: </h2>
+
+
 
 
