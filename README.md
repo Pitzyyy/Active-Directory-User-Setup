@@ -12,15 +12,21 @@ A basic Active Directory lab showing the new hire onboarding process. It covers 
 ## Lab walk-through
 
 Creating a new user account in Active Directory:
-
-![Create new user](./assets/images/create_user.png)
+<p align="center">
+  <img src="./assets/images/create_user.png" alt="Create new user"
+       style="width:80%;height:80%;display:block;margin:0 auto;" />
+</p>
 
 Assigning a temporary password and enforcing password change at next logon:
 
-![Temporary password](./assets/images/temp_password.png)
-
+<p align="center">
+  <img src="./assets/images/temp_password.png" alt="Create new user"
+       style="width:80%;height:80%;display:block;margin:0 auto;" />
+</p>
 Verifying user placement in the correct Organizational Unit (OU):
-
-![Verify OU placement](./assets/images/verify_ou.png)
+<p align="center">
+  <img src="./assets/images/verify_ou.png" alt="Create new user"
+       style="width:80%;height:80%;display:block;margin:0 auto;" />
+</p>
 
 
