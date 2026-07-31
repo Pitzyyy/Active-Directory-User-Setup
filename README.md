@@ -1,5 +1,14 @@
 # Active-Directory-User-Setup
 
-<h3>Description</h3>
+<h2>Description</h2>
 
-A hands-on IT lab documenting the step-by-step process of creating and configuring user accounts in Active Directory.
+A basic Active Directory lab showing the new hire onboarding process. It covers setting up a new user account, issuing a temporary password, forcing a password update on first login, and placing the user in the correct Organizational Unit (OU).
+
+<h2>Environment Used</h2>
+
+- Windows Server 2022<br>
+- VMware Workstation
+
+<h2>Lab Walkthrough</h2>
+
+
